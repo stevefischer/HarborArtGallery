@@ -7,7 +7,7 @@ body { size: relative; }
 
 ul {
       font-family: Berlin Sans FB;
-      font-size: 30px;
+      font-size: 25px;
       list-style-type: none;
       margin: 0;
       padding: 0;
@@ -25,14 +25,14 @@ li a {
   display: block;
   text-align: center;
   padding: 20px 125px;
-  font-size: 2x;
+  font-size: 25x;
   color: white;
   text-decoration: none;
 }
 
 a:hover {
   color: rgb(102,177,222);
-  font-size: 30px;
+  font-size: 25px;
 }
 
 #navBar { background-color: lightgray; }
@@ -81,7 +81,7 @@ a:hover {
     max-width: 100%;
 }
 
-h1{ font-size: 40px; font-family: Berlin Sans FB; }
+h1{ font-size: 60px; font-family: Berlin Sans FB; }
 
 p { font-family: AR Cena; font-size: 30px;}
 
@@ -105,6 +105,7 @@ footer {
     text-align: center;
 }
 
+#about { padding-left: 50px; } 
 
 
 
